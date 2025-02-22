@@ -61,7 +61,8 @@ Online Auction is a Live Bidding platform built on ReactJS, ExpressJs and Node, 
   
 # Author
 
- * Sanjay Musale
+ * vishal gupta
+
 
 
 
